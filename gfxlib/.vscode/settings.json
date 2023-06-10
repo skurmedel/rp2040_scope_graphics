@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "limits": "cpp",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "regex": "cpp",
+        "ratio": "cpp"
+    }
+}
